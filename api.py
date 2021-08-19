@@ -10,4 +10,4 @@ def root():
 
 @app.get("/question")
 def question():
-    return "42"
+    return "4242"
